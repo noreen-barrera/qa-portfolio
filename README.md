@@ -1,6 +1,3 @@
-# qa-portfolio
-A beginner QA testing portfolio with manual test cases and bug reports from real project testing.
-
 # QA Portfolio – Noreen
 
 Hello! I'm Noreen, an aspiring QA tester currently pursuing my BS in Information Systems.  
