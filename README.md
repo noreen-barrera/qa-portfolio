@@ -1,4 +1,4 @@
-# QA Portfolio – Noreen
+# QA Portfolio – Noreen Barrera
 
 Hello! I'm Noreen, an aspiring QA tester currently studying BS in Information Systems.  
 This repository is a growing showcase of my manual QA testing work. It includes test cases, bug reports, and documentation based on a real web application I’m developing — **MedPass**, a medical clearance tracking system built with Laravel and Vue.
