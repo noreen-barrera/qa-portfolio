@@ -47,4 +47,4 @@ I’m currently looking for a **part-time, remote QA testing opportunity**.
 If you’re hiring or open to a motivated beginner with strong attention to detail, I’d love to connect!
 
 GitHub: [github.com/noreen-barrera](https://github.com/noreen-barrera)  
-LinkedIn: (https://www.linkedin.com/in/noreen-barrera-1017b0377/) 
+LinkedIn: https://www.linkedin.com/in/noreen-barrera-1017b0377/
